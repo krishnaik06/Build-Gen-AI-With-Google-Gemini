@@ -1,0 +1,6 @@
+crewai
+python-dotenv
+crewai_tools
+langchain_openai
+langchain_community
+langchain_huggingface

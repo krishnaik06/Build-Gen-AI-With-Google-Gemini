@@ -1,0 +1,9 @@
+The video begins by addressing the confusion that many data science aspirants have about the differences between AI, ML, DL, and data science. It emphasizes that regardless of whether we use ML or DL, we are ultimately creating an AI application. Examples of AI applications include Netflix, Amazon, and self-driving cars.
+
+Artificial Intelligence (AI) is explained as the broad discipline that allows machines to operate without human intervention, be it an application or a software. Machine Learning (ML), a subset of AI, provides statistical tools to analyze and preprocess data, and make forecasts and predictions. Deep Learning (DL), on the other hand, deals with complex data structures like images and live feeds. DL techniques are extensively used in applications where inputs are in the form of images or live feeds, such as facial recognition systems and autonomous vehicles.
+
+Data science is explained as a field that overlaps with AI, ML, and DL. A data scientist utilizes mathematical and statistical techniques to analyze and process data, with tasks ranging from data engineering to DL tasks to creating AI applications. The ultimate goal of a data scientist is to create AI applications.
+
+The video concludes by emphasizing that as a data scientist, you may be given a task that could be related to data engineering, DL, or creating an AI application. Regardless of the role, the end goal is to create an AI application. The video also hints at the topic for the next video, which will discuss the differences between supervised and non-supervised machine learning. 
+
+In summary, the video provides a comprehensive overview of AI, ML, DL, and data science, explaining their differences and how they overlap and interact with each other in the creation of AI applications.
